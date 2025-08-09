@@ -7,5 +7,6 @@ public class Main {
         System.out.println("你好git");
         System.out.println("66666");
         System.out.println("master 修改");
+        System.out.println("hotfix 修改");
     }
 }
